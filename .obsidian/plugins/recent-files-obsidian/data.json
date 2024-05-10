@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "04- Git and Obsidian",
       "path": "Documentation/04- Git and Obsidian.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "Character",
       "path": "Templates/Characters/Character.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "02- Best Practices",

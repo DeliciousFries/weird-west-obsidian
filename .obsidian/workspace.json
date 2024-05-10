@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentation/04- Git and Obsidian.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documentation/04- Git and Obsidian.md"
+                "file": "README.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentation/04- Git and Obsidian.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documentation/04- Git and Obsidian.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 239.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,16 +184,16 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "calendarium:Open Calendarium": false,
       "quick-tagger:Add tag to current note": false,
-      "quick-tagger:Remove tag from current note": false
+      "quick-tagger:Remove tag from current note": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "c093abcf9dd1f7bb",
   "lastOpenFiles": [
+    "Documentation/04- Git and Obsidian.md",
     "Characters/God of Evil.md",
     "Events/War against the heavens.md",
-    "Documentation/04- Git and Obsidian.md",
     "Documentation/01- Getting Started.md",
     "Templates/Material/Material- Resource.md",
     "Templates/Material/Material- Metaphysics.md",
