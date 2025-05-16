@@ -63,5 +63,15 @@ To use a template, simply create a note and title it appropriately, and then ins
 	- [[Society- Lore]]
 	- [[Society- Occupation]]
 	- [[Society- Religion]]
+- **Technology**
+	- [[Tech- Administrative]]
+	- [[Tech- Agricultural]]
+	- [[Tech- Communication]]
+	- [[Tech- Construction]]
+	- [[Tech- Culture]]
+	- [[Tech- Magical]]
+	- [[Tech- Manufacturing]]
+	- [[Tech- Medical]]
+	- [[Tech- Transportation]]
 
 %% End Waypoint %%

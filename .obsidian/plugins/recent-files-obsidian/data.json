@@ -5,6 +5,74 @@
       "path": "README.md"
     },
     {
+      "basename": "Location- Settlement",
+      "path": "Templates/Location/Location- Settlement.md"
+    },
+    {
+      "basename": "Tech- Administrative",
+      "path": "Templates/Technology/Tech- Administrative.md"
+    },
+    {
+      "basename": "Tech- Transportation",
+      "path": "Templates/Technology/Tech- Transportation.md"
+    },
+    {
+      "basename": "Tech- Medical",
+      "path": "Templates/Technology/Tech- Medical.md"
+    },
+    {
+      "basename": "Tech- Manufacturing",
+      "path": "Templates/Technology/Tech- Manufacturing.md"
+    },
+    {
+      "basename": "Tech- Magical",
+      "path": "Templates/Technology/Tech- Magical.md"
+    },
+    {
+      "basename": "Tech- Construction",
+      "path": "Templates/Technology/Tech- Construction.md"
+    },
+    {
+      "basename": "Tech- Culture",
+      "path": "Templates/Technology/Tech- Culture.md"
+    },
+    {
+      "basename": "Tech- Communication",
+      "path": "Templates/Technology/Tech- Communication.md"
+    },
+    {
+      "basename": "Tech- Agricultural",
+      "path": "Templates/Technology/Tech- Agricultural.md"
+    },
+    {
+      "basename": "Character",
+      "path": "Templates/Characters/Character.md"
+    },
+    {
+      "basename": "Material- Resource",
+      "path": "Templates/Material/Material- Resource.md"
+    },
+    {
+      "basename": "Material- Afflictions",
+      "path": "Templates/Material/Material- Afflictions.md"
+    },
+    {
+      "basename": "Technology",
+      "path": "Technology/Technology.md"
+    },
+    {
+      "basename": "Religion",
+      "path": "Society/Religion/Religion.md"
+    },
+    {
+      "basename": "Society",
+      "path": "Society/Society.md"
+    },
+    {
+      "basename": "Society- Art",
+      "path": "Templates/Society/Society- Art.md"
+    },
+    {
       "basename": "04- Git and Obsidian",
       "path": "Documentation/04- Git and Obsidian.md"
     },
@@ -13,16 +81,8 @@
       "path": "Documentation/01- Getting Started.md"
     },
     {
-      "basename": "Material- Resource",
-      "path": "Templates/Material/Material- Resource.md"
-    },
-    {
       "basename": "Material- Metaphysics",
       "path": "Templates/Material/Material- Metaphysics.md"
-    },
-    {
-      "basename": "Location- Settlement",
-      "path": "Templates/Location/Location- Settlement.md"
     },
     {
       "basename": "Location- Natural",
@@ -31,10 +91,6 @@
     {
       "basename": "Location- Nation",
       "path": "Templates/Location/Location- Nation.md"
-    },
-    {
-      "basename": "Character",
-      "path": "Templates/Characters/Character.md"
     },
     {
       "basename": "02- Best Practices",
@@ -93,10 +149,6 @@
       "path": "Templates/Society/Society- Customs.md"
     },
     {
-      "basename": "Society- Art",
-      "path": "Templates/Society/Society- Art.md"
-    },
-    {
       "basename": "Session Note",
       "path": "Templates/Narrative/Session Note.md"
     },
@@ -129,10 +181,6 @@
       "path": "Templates/Material/Material- Crop.md"
     },
     {
-      "basename": "Material- Afflictions",
-      "path": "Templates/Material/Material- Afflictions.md"
-    },
-    {
       "basename": "Location- Region",
       "path": "Templates/Location/Location- Region.md"
     },
@@ -151,46 +199,6 @@
     {
       "basename": "Location- Cosmology",
       "path": "Templates/Location/Location- Cosmology.md"
-    },
-    {
-      "basename": "Life- Humanoid",
-      "path": "Templates/Life/Life- Humanoid.md"
-    },
-    {
-      "basename": "Life- Plant",
-      "path": "Templates/Life/Life- Plant.md"
-    },
-    {
-      "basename": "Life- Magical",
-      "path": "Templates/Life/Life- Magical.md"
-    },
-    {
-      "basename": "Life- Animal",
-      "path": "Templates/Life/Life- Animal.md"
-    },
-    {
-      "basename": "Group- Population",
-      "path": "Templates/Groups/Group- Population.md"
-    },
-    {
-      "basename": "Group- Political",
-      "path": "Templates/Groups/Group- Political.md"
-    },
-    {
-      "basename": "Group- General",
-      "path": "Templates/Groups/Group- General.md"
-    },
-    {
-      "basename": "Group- Commercial",
-      "path": "Templates/Groups/Group- Commercial.md"
-    },
-    {
-      "basename": "Group- Combat",
-      "path": "Templates/Groups/Group- Combat.md"
-    },
-    {
-      "basename": "Event",
-      "path": "Templates/Events/Event.md"
     }
   ],
   "omittedPaths": [],

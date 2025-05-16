@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "eeb6e717423fac9e",
+        "id": "be656d74eacc1256",
         "type": "tabs",
         "children": [
           {
-            "id": "c093abcf9dd1f7bb",
+            "id": "0a5898ee9ca77267",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Templates/Location/Location- Settlement.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214.5
+    "width": 301.50484466552734
   },
   "right": {
     "id": "b4965ebd78dce612",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Templates/Location/Location- Settlement.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Templates/Location/Location- Settlement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Templates/Location/Location- Settlement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,43 +189,44 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c093abcf9dd1f7bb",
+  "active": "0a5898ee9ca77267",
   "lastOpenFiles": [
+    "README.md",
+    "Templates/Technology/Tech- Administrative.md",
+    "Templates/Technology/Tech- Transportation.md",
+    "Templates/Technology/Tech- Medical.md",
+    "Templates/Technology/Tech- Manufacturing.md",
+    "Templates/Technology/Tech- Magical.md",
+    "Templates/Technology/Tech- Construction.md",
+    "Templates/Technology/Tech- Culture.md",
+    "Templates/Technology/Tech- Communication.md",
+    "Templates/Technology/Tech- Agricultural.md",
+    "Templates/Characters/Character.md",
+    "Templates/Material/Material- Resource.md",
+    "Templates/Material/Material- Afflictions.md",
+    "Technology/Technology.md",
+    "Society/Religion/Religion.md",
+    "Society/Society.md",
+    "Technology",
+    "Templates/Society/Society- Art.md",
+    "Templates/Technology",
     "Documentation/04- Git and Obsidian.md",
     "Characters/God of Evil.md",
     "Events/War against the heavens.md",
     "Documentation/01- Getting Started.md",
-    "Templates/Material/Material- Resource.md",
     "Templates/Material/Material- Metaphysics.md",
     "Templates/Location/Location- Settlement.md",
     "Templates/Location/Location- Natural.md",
     "Templates/Location/Location- Nation.md",
-    "Templates/Characters/Character.md",
     "Locations/Curly's Cabin in the woods.md",
-    "Characters/Curly.md",
-    "README.md",
-    "Documentation/02- Best Practices.md",
-    "Obsidian-Worldbuilding-Template-Vault-by-DG/Obsidian-Worldbuilding-Template-Vault-by-DG.md",
     "Obsidian-Worldbuilding-Template-Vault-by-DG",
-    "Templates/Groups/Group- Religious.md",
-    "Documentation/03- Community Plugins.md",
-    "Templates/Categories/Folder Note Template.md",
     "Documentation/Images/infobox-callout-its-pre-example.png",
     "Documentation/Images/infobox-callout-its-example.png",
     "Documentation/Images/waypoint-example.png",
-    "Untitled/Untitled.md",
-    "Untitled",
     "Documentation/Images/quick-tagger-example.png",
     "Documentation/Images/iconize-example.png",
     "Documentation/Images/folder-notes-example.png",
     "Pasted image 20240508113306.png",
-    "Templates/Society/Society- Religion.md",
-    "Templates/Society/Society- Occupation.md",
-    "Templates/Society/Society- Lore.md",
-    "Templates/Society/Society- Language.md",
-    "Templates/Society/Society- Industry.md",
-    "Templates/Society/Society- Folklore.md",
-    "Templates/Society/Society- Education.md",
     "Documentation/Images/wikipedia-outline.png",
     "Documentation/Images/headers-outline.png",
     "Templates/Characters",
