@@ -11,7 +11,7 @@ The locations folder is meant for outlining various locations within a fantasy w
 
 There are two approaches to organizing this kind of folder.
 1. Organizing by entity type. Bodies of water get their own folder, as do settlements, mountains, etc. If you take this approach, it is highly recommended to tag locations appropriately when connected.
-2. More commonly, by hiearchy. As in, locations within a city will usually fall under a city.
+2. More commonly, by hierarchy. As in, locations within a city will usually fall under a city.
 
 ## Creating a new location
 
@@ -44,6 +44,9 @@ Settlements include towns, villages, cities, and other localized groups of perma
 # Table of Contents
 
 %% Begin Waypoint %%
-
+- **[[Hellan]]**
+- **[[Moto Moto]]**
+- **[[The Desert]]**
+- **[[Yatoro]]**
 
 %% End Waypoint %%

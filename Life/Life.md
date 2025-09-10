@@ -33,6 +33,16 @@ Sort of a catch-all term, this is meant to contain clearly magical beings that e
 - **[[Fauna]]**
 - **[[Flora]]**
 - **[[Humanoids]]**
+	- [[Changelings]]
+	- [[Dwarves]]
+	- [[Elves]]
+	- [[Giff]]
+	- [[Gnomes]]
+	- [[Halflings]]
+	- [[Humans]]
+	- [[Orcs]]
+	- [[Thri-kreen]]
+	- [[Tortles]]
 - **[[Magical]]**
 
 %% End Waypoint %%
