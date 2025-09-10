@@ -44,5 +44,6 @@ Population groups include ethnicities, nationalities, cultures, and other broad 
 - **[[Political]]**
 - **[[Population]]**
 - **[[Religious]]**
+	- [[Hecthagios]]
 
 %% End Waypoint %%

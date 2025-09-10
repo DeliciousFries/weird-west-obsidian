@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Yatoro",
-      "path": "Locations/Yatoro/Yatoro.md"
+      "basename": "Events",
+      "path": "Events/Events.md"
+    },
+    {
+      "basename": "War of Disarmament",
+      "path": "Events/War of Disarmament.md"
+    },
+    {
+      "basename": "House of Order",
+      "path": "Characters/Gods/Hecthagian Pantheon/House of Order.md"
+    },
+    {
+      "basename": "House of Chaos",
+      "path": "Characters/Gods/Hecthagian Pantheon/House of Chaos.md"
+    },
+    {
+      "basename": "House of Death",
+      "path": "Characters/Gods/Hecthagian Pantheon/House of Death.md"
+    },
+    {
+      "basename": "House of Life",
+      "path": "Characters/Gods/Hecthagian Pantheon/House of Life.md"
+    },
+    {
+      "basename": "House of Patronage",
+      "path": "Characters/Gods/Hecthagian Pantheon/House of Patronage.md"
+    },
+    {
+      "basename": "Hecthagian Pantheon",
+      "path": "Characters/Gods/Hecthagian Pantheon/Hecthagian Pantheon.md"
     },
     {
       "basename": "Hellan",
       "path": "Locations/Hellan/Hellan.md"
+    },
+    {
+      "basename": "Hecthagios",
+      "path": "Groups/Religious/Hecthagios.md"
+    },
+    {
+      "basename": "Gods",
+      "path": "Characters/Gods/Gods.md"
+    },
+    {
+      "basename": "Moto Moto",
+      "path": "Locations/Moto Moto/Moto Moto.md"
+    },
+    {
+      "basename": "Yatoro",
+      "path": "Locations/Yatoro/Yatoro.md"
     },
     {
       "basename": "The Desert",
@@ -15,10 +59,6 @@
     {
       "basename": "Groups",
       "path": "Groups/Groups.md"
-    },
-    {
-      "basename": "Events",
-      "path": "Events/Events.md"
     },
     {
       "basename": "Characters",
@@ -63,10 +103,6 @@
     {
       "basename": "Giff",
       "path": "Life/Humanoids/Giff.md"
-    },
-    {
-      "basename": "Moto Moto",
-      "path": "Locations/Moto Moto/Moto Moto.md"
     },
     {
       "basename": "Locations",
@@ -163,42 +199,6 @@
     {
       "basename": "Material- Metaphysics",
       "path": "Templates/Material/Material- Metaphysics.md"
-    },
-    {
-      "basename": "Location- Natural",
-      "path": "Templates/Location/Location- Natural.md"
-    },
-    {
-      "basename": "Location- Nation",
-      "path": "Templates/Location/Location- Nation.md"
-    },
-    {
-      "basename": "Group- Religious",
-      "path": "Templates/Groups/Group- Religious.md"
-    },
-    {
-      "basename": "Folder Note Template",
-      "path": "Templates/Categories/Folder Note Template.md"
-    },
-    {
-      "basename": "folder-notes-example",
-      "path": "Documentation/Images/folder-notes-example.png"
-    },
-    {
-      "basename": "Society- Religion",
-      "path": "Templates/Society/Society- Religion.md"
-    },
-    {
-      "basename": "Society- Occupation",
-      "path": "Templates/Society/Society- Occupation.md"
-    },
-    {
-      "basename": "Society- Lore",
-      "path": "Templates/Society/Society- Lore.md"
-    },
-    {
-      "basename": "Society- Language",
-      "path": "Templates/Society/Society- Language.md"
     }
   ],
   "omittedPaths": [],

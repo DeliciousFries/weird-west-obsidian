@@ -1,0 +1,1 @@
+The Hecthagian Tradition believes in a heavenly court of 100 gods that govern both themselves and reality. The Hecthagian court is divided into five houses based on the domains of its gods.

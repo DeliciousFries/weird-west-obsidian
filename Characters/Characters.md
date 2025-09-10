@@ -93,6 +93,12 @@ However...
 # Table of Contents
 
 %% Begin Waypoint %%
-
+- **[[Gods]]**
+	- **[[Hecthagian Pantheon]]**
+		- [[House of Chaos]]
+		- [[House of Death]]
+		- [[House of Life]]
+		- [[House of Order]]
+		- [[House of Patronage]]
 
 %% End Waypoint %%

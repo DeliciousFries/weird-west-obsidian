@@ -10,7 +10,7 @@ tags:
 > # `Yatoro`
 > ![[Image.png|200]]
 > ###### About
-> | Government |   |
+> | Government | Military Shogunate |
 > | ---- | ---- |
 > | Capital | Shibiro |
 > | Area |  |
@@ -29,12 +29,12 @@ tags:
 Yatoro is a human-majority country located on the southern tip of the Urunai Peninsula and the surrounding Subtori Archipelago.
 
 ## Government
+The Yatoro head of state is the shogun, the daimyo of Shibiro, the most powerful fief in Yatoro. The number of fiefs in Yatoro has fluctuates, but it is currently 198. The daimyo of each fief must swear allegiance to the Shogun, and their families must live in the Silver Palace in Shibiro.
 
+Officially, Yatoro has an emperor, but the de facto ruler of Yatoro has been the Shogun for several hundred years.
 
 ### Military
-
-
-
+The Armed Forces of Yatoro consist of two branches: The Yatoran Army and the Imperial Mariners.
 
 # History
 
