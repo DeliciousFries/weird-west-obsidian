@@ -12,6 +12,6 @@ World builders using this template for storywriting purposes outside of TTRPGs m
 # Table of Contents
 
 %% Begin Waypoint %%
-
+- [[Session 1]]
 
 %% End Waypoint %%

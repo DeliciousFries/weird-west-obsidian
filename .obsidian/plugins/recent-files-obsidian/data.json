@@ -1,20 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "Events",
-      "path": "Events/Events.md"
+      "basename": "The Opening",
+      "path": "Events/The Opening.md"
     },
     {
       "basename": "War of Disarmament",
       "path": "Events/War of Disarmament.md"
     },
     {
-      "basename": "House of Order",
-      "path": "Characters/Gods/Hecthagian Pantheon/House of Order.md"
+      "basename": "Yatoro",
+      "path": "Locations/Yatoro/Yatoro.md"
+    },
+    {
+      "basename": "Hellan",
+      "path": "Locations/Hellan/Hellan.md"
+    },
+    {
+      "basename": "Hell Shards",
+      "path": "Material/Resources/Hell Shards.md"
+    },
+    {
+      "basename": "Resources",
+      "path": "Material/Resources/Resources.md"
+    },
+    {
+      "basename": "Cattlebanks",
+      "path": "Locations/Hellan/Cattlebanks.md"
+    },
+    {
+      "basename": "Session 1",
+      "path": "Narrative and Planning/Session Notes/Session 1.md"
+    },
+    {
+      "basename": "Joseph Edwards",
+      "path": "Characters/Joseph Edwards.md"
+    },
+    {
+      "basename": "Moto Moto",
+      "path": "Locations/Moto Moto/Moto Moto.md"
+    },
+    {
+      "basename": "About",
+      "path": "Narrative and Planning/About/About.md"
+    },
+    {
+      "basename": "Session Notes",
+      "path": "Narrative and Planning/Session Notes/Session Notes.md"
+    },
+    {
+      "basename": "House of Patronage",
+      "path": "Characters/Gods/Hecthagian Pantheon/House of Patronage.md"
+    },
+    {
+      "basename": "Gods",
+      "path": "Characters/Gods/Gods.md"
     },
     {
       "basename": "House of Chaos",
       "path": "Characters/Gods/Hecthagian Pantheon/House of Chaos.md"
+    },
+    {
+      "basename": "The Desert",
+      "path": "Locations/The Desert/The Desert.md"
+    },
+    {
+      "basename": "Events",
+      "path": "Events/Events.md"
+    },
+    {
+      "basename": "House of Order",
+      "path": "Characters/Gods/Hecthagian Pantheon/House of Order.md"
     },
     {
       "basename": "House of Death",
@@ -25,36 +81,12 @@
       "path": "Characters/Gods/Hecthagian Pantheon/House of Life.md"
     },
     {
-      "basename": "House of Patronage",
-      "path": "Characters/Gods/Hecthagian Pantheon/House of Patronage.md"
-    },
-    {
       "basename": "Hecthagian Pantheon",
       "path": "Characters/Gods/Hecthagian Pantheon/Hecthagian Pantheon.md"
     },
     {
-      "basename": "Hellan",
-      "path": "Locations/Hellan/Hellan.md"
-    },
-    {
       "basename": "Hecthagios",
       "path": "Groups/Religious/Hecthagios.md"
-    },
-    {
-      "basename": "Gods",
-      "path": "Characters/Gods/Gods.md"
-    },
-    {
-      "basename": "Moto Moto",
-      "path": "Locations/Moto Moto/Moto Moto.md"
-    },
-    {
-      "basename": "Yatoro",
-      "path": "Locations/Yatoro/Yatoro.md"
-    },
-    {
-      "basename": "The Desert",
-      "path": "Locations/The Desert/The Desert.md"
     },
     {
       "basename": "Groups",
@@ -167,38 +199,6 @@
     {
       "basename": "Tech- Agricultural",
       "path": "Templates/Technology/Tech- Agricultural.md"
-    },
-    {
-      "basename": "Character",
-      "path": "Templates/Characters/Character.md"
-    },
-    {
-      "basename": "Material- Resource",
-      "path": "Templates/Material/Material- Resource.md"
-    },
-    {
-      "basename": "Material- Afflictions",
-      "path": "Templates/Material/Material- Afflictions.md"
-    },
-    {
-      "basename": "Technology",
-      "path": "Technology/Technology.md"
-    },
-    {
-      "basename": "Religion",
-      "path": "Society/Religion/Religion.md"
-    },
-    {
-      "basename": "Society",
-      "path": "Society/Society.md"
-    },
-    {
-      "basename": "Society- Art",
-      "path": "Templates/Society/Society- Art.md"
-    },
-    {
-      "basename": "Material- Metaphysics",
-      "path": "Templates/Material/Material- Metaphysics.md"
     }
   ],
   "omittedPaths": [],

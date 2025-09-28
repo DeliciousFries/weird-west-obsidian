@@ -100,5 +100,6 @@ However...
 		- [[House of Life]]
 		- [[House of Order]]
 		- [[House of Patronage]]
+- [[Joseph Edwards]]
 
 %% End Waypoint %%

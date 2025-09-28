@@ -1,0 +1,1 @@
+The party starts in [[Cattlebanks]] in Joe's Saloon. It is owned by [[Joseph Edwards]], a crippled Hellanen veteran.

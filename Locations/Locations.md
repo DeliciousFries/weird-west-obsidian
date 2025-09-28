@@ -45,6 +45,7 @@ Settlements include towns, villages, cities, and other localized groups of perma
 
 %% Begin Waypoint %%
 - **[[Hellan]]**
+	- [[Cattlebanks]]
 - **[[Moto Moto]]**
 - **[[The Desert]]**
 - **[[Yatoro]]**

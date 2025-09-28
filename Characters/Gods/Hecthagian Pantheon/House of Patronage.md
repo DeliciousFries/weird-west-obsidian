@@ -17,7 +17,7 @@ Kapasaikan, God of Spices
 Klikschnak’nak, Father of Animal Speech 
 Kuntole, God of Worship
 Muroggos, the God of Battles 
-Nispet the All-Hearing - God of Silence
+Nispet the All-Hearing, God of Silence
 Nyla, Goddess of the Hunt 
 Perdita, God of the Lost, Forgotten, and Discarded
 Sefeteris, the Muse of Hubris 

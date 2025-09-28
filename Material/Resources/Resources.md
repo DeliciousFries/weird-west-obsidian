@@ -11,6 +11,6 @@ Information about iron, coal, wood, or your fantasy unobtainium of choice can be
 # Table of Contents
 
 %% Begin Waypoint %%
-
+- [[Hell Shards]]
 
 %% End Waypoint %%
