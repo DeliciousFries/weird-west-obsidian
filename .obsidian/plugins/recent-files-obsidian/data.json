@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "The Opening",
-      "path": "Events/The Opening.md"
+      "basename": "Gurnlodir",
+      "path": "Locations/Gurnlodir/Gurnlodir.md"
+    },
+    {
+      "basename": "Urunai",
+      "path": "Locations/The Desert/Urunai/Urunai.md"
+    },
+    {
+      "basename": "Pikiktul Plateau",
+      "path": "Locations/The Desert/Pikiktul Plateau/Pikiktul Plateau.md"
+    },
+    {
+      "basename": "Lowlands",
+      "path": "Locations/The Desert/Lowlands/Lowlands.md"
+    },
+    {
+      "basename": "Kusa",
+      "path": "Locations/The Desert/Kusa/Kusa.md"
+    },
+    {
+      "basename": "Empty Sector",
+      "path": "Locations/The Desert/Empty Sector/Empty Sector.md"
+    },
+    {
+      "basename": "Barrier Steppes",
+      "path": "Locations/The Desert/Barrier Steppes/Barrier Steppes.md"
+    },
+    {
+      "basename": "The Desert",
+      "path": "Locations/The Desert/The Desert.md"
     },
     {
       "basename": "War of Disarmament",
       "path": "Events/War of Disarmament.md"
+    },
+    {
+      "basename": "Abyssal Revolution",
+      "path": "Events/Abyssal Revolution.md"
+    },
+    {
+      "basename": "The Opening",
+      "path": "Events/The Opening.md"
     },
     {
       "basename": "Yatoro",
@@ -23,10 +59,6 @@
     {
       "basename": "Resources",
       "path": "Material/Resources/Resources.md"
-    },
-    {
-      "basename": "Cattlebanks",
-      "path": "Locations/Hellan/Cattlebanks.md"
     },
     {
       "basename": "Session 1",
@@ -59,10 +91,6 @@
     {
       "basename": "House of Chaos",
       "path": "Characters/Gods/Hecthagian Pantheon/House of Chaos.md"
-    },
-    {
-      "basename": "The Desert",
-      "path": "Locations/The Desert/The Desert.md"
     },
     {
       "basename": "Events",
@@ -171,34 +199,6 @@
     {
       "basename": "Tech- Transportation",
       "path": "Templates/Technology/Tech- Transportation.md"
-    },
-    {
-      "basename": "Tech- Medical",
-      "path": "Templates/Technology/Tech- Medical.md"
-    },
-    {
-      "basename": "Tech- Manufacturing",
-      "path": "Templates/Technology/Tech- Manufacturing.md"
-    },
-    {
-      "basename": "Tech- Magical",
-      "path": "Templates/Technology/Tech- Magical.md"
-    },
-    {
-      "basename": "Tech- Construction",
-      "path": "Templates/Technology/Tech- Construction.md"
-    },
-    {
-      "basename": "Tech- Culture",
-      "path": "Templates/Technology/Tech- Culture.md"
-    },
-    {
-      "basename": "Tech- Communication",
-      "path": "Templates/Technology/Tech- Communication.md"
-    },
-    {
-      "basename": "Tech- Agricultural",
-      "path": "Templates/Technology/Tech- Agricultural.md"
     }
   ],
   "omittedPaths": [],

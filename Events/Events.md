@@ -22,6 +22,7 @@ World builders are encouraged to create their own folders and organize appropria
 # Table of Contents
 
 %% Begin Waypoint %%
+- [[Abyssal Revolution]]
 - [[The Opening]]
 - [[War of Disarmament]]
 

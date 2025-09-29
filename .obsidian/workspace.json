@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9fb26bc029c485af",
+            "id": "a64960fba46482ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/The Opening.md",
+                "file": "Locations/Gurnlodir/Gurnlodir.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Opening"
+              "title": "Gurnlodir"
             }
           }
         ]
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/The Opening.md",
+                "file": "Locations/Gurnlodir/Gurnlodir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Opening"
+              "title": "Backlinks for Gurnlodir"
             }
           },
           {
@@ -248,15 +248,33 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9fb26bc029c485af",
+  "active": "a64960fba46482ce",
   "lastOpenFiles": [
+    "Locations/Gurnlodir",
+    "Locations/The Desert/Urunai/Urunai.md",
+    "Locations/Gurnlodir/Gurnlodir.md",
+    "Locations/The Desert/Pikiktul Plateau/Pikiktul Plateau.md",
+    "Locations/The Desert/Urunai",
+    "Locations/The Desert/Lowlands/Lowlands.md",
+    "Locations/The Desert/Pikiktul Plateau",
+    "Locations/The Desert/Kusa/Kusa.md",
+    "Locations/The Desert/Lowlands",
+    "Locations/The Desert/Empty Sector/Empty Sector.md",
+    "Locations/The Desert/Kusa",
+    "Locations/The Desert/Barrier Steppes/Barrier Steppes.md",
+    "Locations/The Desert/Empty Sector",
+    "Locations/The Desert/Barrier Steppes",
+    "Locations/Hellan/Cattlebanks.md",
+    "Locations/The Desert/The Desert.md",
     "Events/War of Disarmament.md",
+    "Events/Abyssal Revolution.md",
     "Events/The Opening.md",
+    "Events/Abyssal Revolution/Abyssal Revolution.md",
+    "Events/Abyssal Revolution",
     "Locations/Yatoro/Yatoro.md",
     "Locations/Hellan/Hellan.md",
     "Material/Resources/Hell Shards.md",
     "Material/Resources/Resources.md",
-    "Locations/Hellan/Cattlebanks.md",
     "Narrative and Planning/Session Notes/Session 1.md",
     "Characters/Joseph Edwards.md",
     "Characters/Untitled.md",
@@ -265,28 +283,10 @@
     "Narrative and Planning/Session Notes/Session Notes.md",
     "Characters/Gods/Hecthagian Pantheon/House of Patronage.md",
     "Characters/Gods/Gods.md",
-    "Characters/Gods/Hecthagian Pantheon/House of Chaos.md",
-    "Locations/The Desert/The Desert.md",
-    "Events/Events.md",
     "ci.yaml",
-    "Characters/Gods/Hecthagian Pantheon/House of Order.md",
-    "Characters/Gods/Hecthagian Pantheon/House of Death.md",
-    "Characters/Gods/Hecthagian Pantheon/House of Life.md",
-    "Characters/Gods/Hecthagian Pantheon/Hecthagian Pantheon.md",
-    "Groups/Religious/Hecthagios.md",
     "Characters/Gods/Hecthagian Pantheon",
     "Characters/Gods",
-    "Groups/Groups.md",
-    "Characters/Characters.md",
-    "Life/Humanoids/Thri-kreen.md",
-    "Locations/The Desert",
-    "Locations/The Desert",
-    "Locations/Moto Moto",
-    "Locations/Yatoro",
-    "Locations/Hellan",
     "Documentation/Images/file-explorer-obsidian-getting-started.png",
-    "Technology",
-    "Templates/Technology",
     "Documentation/Images/infobox-callout-its-pre-example.png",
     "Documentation/Images/infobox-callout-its-example.png",
     "Documentation/Images/waypoint-example.png",

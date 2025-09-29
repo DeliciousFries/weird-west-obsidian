@@ -44,10 +44,16 @@ Settlements include towns, villages, cities, and other localized groups of perma
 # Table of Contents
 
 %% Begin Waypoint %%
+- **[[Gurnlodir]]**
 - **[[Hellan]]**
-	- [[Cattlebanks]]
 - **[[Moto Moto]]**
 - **[[The Desert]]**
+	- **[[Barrier Steppes]]**
+	- **[[Empty Sector]]**
+	- **[[Kusa]]**
+	- **[[Lowlands]]**
+	- **[[Pikiktul Plateau]]**
+	- **[[Urunai]]**
 - **[[Yatoro]]**
 
 %% End Waypoint %%
