@@ -17,6 +17,7 @@ The Narrative and Planning folder is meant to contain the authorial content of y
 
 %% Begin Waypoint %%
 - **[[About]]**
+- [[PC Background]]
 - **[[Session Notes]]**
 - **[[Storylines]]**
 

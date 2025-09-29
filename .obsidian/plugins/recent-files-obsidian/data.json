@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Session 1",
+      "path": "Narrative and Planning/Session Notes/Session 1.md"
+    },
+    {
+      "basename": "The Opening",
+      "path": "Events/The Opening.md"
+    },
+    {
+      "basename": "PC Background",
+      "path": "Narrative and Planning/PC Background.md"
+    },
+    {
+      "basename": "Abyssal Revolution",
+      "path": "Events/Abyssal Revolution.md"
+    },
+    {
+      "basename": "War of Disarmament",
+      "path": "Events/War of Disarmament.md"
+    },
+    {
       "basename": "Gurnlodir",
       "path": "Locations/Gurnlodir/Gurnlodir.md"
     },
@@ -33,18 +53,6 @@
       "path": "Locations/The Desert/The Desert.md"
     },
     {
-      "basename": "War of Disarmament",
-      "path": "Events/War of Disarmament.md"
-    },
-    {
-      "basename": "Abyssal Revolution",
-      "path": "Events/Abyssal Revolution.md"
-    },
-    {
-      "basename": "The Opening",
-      "path": "Events/The Opening.md"
-    },
-    {
       "basename": "Yatoro",
       "path": "Locations/Yatoro/Yatoro.md"
     },
@@ -59,10 +67,6 @@
     {
       "basename": "Resources",
       "path": "Material/Resources/Resources.md"
-    },
-    {
-      "basename": "Session 1",
-      "path": "Narrative and Planning/Session Notes/Session 1.md"
     },
     {
       "basename": "Joseph Edwards",
@@ -191,14 +195,6 @@
     {
       "basename": "Location- Settlement",
       "path": "Templates/Location/Location- Settlement.md"
-    },
-    {
-      "basename": "Tech- Administrative",
-      "path": "Templates/Technology/Tech- Administrative.md"
-    },
-    {
-      "basename": "Tech- Transportation",
-      "path": "Templates/Technology/Tech- Transportation.md"
     }
   ],
   "omittedPaths": [],
