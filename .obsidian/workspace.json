@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -159,7 +159,7 @@
       {
         "id": "1f88eba8f5e6f9db",
         "type": "tabs",
-        "dimension": 38.471177944862156,
+        "dimension": 52.255639097744364,
         "children": [
           {
             "id": "9b0eb6eb3412faf9",
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Vezos.md",
+                "file": "Narrative and Planning/Session Notes/Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Vezos"
+              "title": "Backlinks for Session 1"
             }
           },
           {
@@ -230,7 +230,7 @@
       {
         "id": "543a174d81804f8b",
         "type": "tabs",
-        "dimension": 61.528822055137844,
+        "dimension": 47.744360902255636,
         "children": [
           {
             "id": "30a19a9c9ba50027",
@@ -240,9 +240,10 @@
               "state": {
                 "calendar": "ID_18194889fa28",
                 "ephemeral": {
+                  "viewing": null,
                   "viewState": 1,
                   "displaying": {
-                    "day": 12,
+                    "day": 13,
                     "month": 2,
                     "year": 1025
                   },
@@ -291,11 +292,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "fcd7447f316673a7",
+  "active": "f0cd14bf0cc21100",
   "lastOpenFiles": [
+    "Characters/Vezos.md",
     "Characters/Vazirro.md",
     "Characters/Everett Eaton.md",
-    "Characters/Vezos.md",
     "Narrative and Planning/Session Notes/Session 1.md",
     "Locations/The Desert/Pikiktul Plateau/Cattlecross.md",
     "Narrative and Planning/PC Background.md",
