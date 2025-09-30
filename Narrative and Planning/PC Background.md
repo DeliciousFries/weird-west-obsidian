@@ -25,3 +25,8 @@ Son named Matthias (5)
 Yatoran warforged prototype
 Island-hopping as a soldier who was moved by the ecological devastation caused by war
 Went AWOL and ran to the desert where he has been doing some light ecoterrorism
+
+#### Alex - Jack (30)
+Elf Assassin rogue
+Mercenary demon hunter
+Hellanen

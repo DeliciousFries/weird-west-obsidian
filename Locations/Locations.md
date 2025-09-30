@@ -53,6 +53,7 @@ Settlements include towns, villages, cities, and other localized groups of perma
 	- **[[Kusa]]**
 	- **[[Lowlands]]**
 	- **[[Pikiktul Plateau]]**
+		- [[Cattlecross]]
 	- **[[Urunai]]**
 - **[[Yatoro]]**
 

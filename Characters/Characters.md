@@ -93,6 +93,7 @@ However...
 # Table of Contents
 
 %% Begin Waypoint %%
+- [[Everett Eaton]]
 - **[[Gods]]**
 	- **[[Hecthagian Pantheon]]**
 		- [[House of Chaos]]
@@ -100,6 +101,7 @@ However...
 		- [[House of Life]]
 		- [[House of Order]]
 		- [[House of Patronage]]
-- [[Joseph Edwards]]
+- [[Vazirro]]
+- [[Vezos]]
 
 %% End Waypoint %%

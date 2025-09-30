@@ -22,21 +22,35 @@
             }
           },
           {
-            "id": "4f0ab56a59001597",
+            "id": "357379416ab4523c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/Abyssal Revolution.md",
+                "file": "Locations/The Desert/Pikiktul Plateau/Cattlecross.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abyssal Revolution"
+              "title": "Cattlecross"
             }
           },
           {
-            "id": "357379416ab4523c",
+            "id": "fcd7447f316673a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Vezos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vezos"
+            }
+          },
+          {
+            "id": "f0cd14bf0cc21100",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -47,20 +61,6 @@
               },
               "icon": "lucide-file",
               "title": "Session 1"
-            }
-          },
-          {
-            "id": "118d5763b0a7d1e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Events/War of Disarmament.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "War of Disarmament"
             }
           }
         ],
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative and Planning/Session Notes/Session 1.md",
+                "file": "Characters/Vezos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 1"
+              "title": "Backlinks for Vezos"
             }
           },
           {
@@ -291,13 +291,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "7be5a2b68df6ec67",
+  "active": "fcd7447f316673a7",
   "lastOpenFiles": [
-    "Narrative and Planning/Session Notes/Cattlebanks.md",
+    "Characters/Vazirro.md",
+    "Characters/Everett Eaton.md",
+    "Characters/Vezos.md",
     "Narrative and Planning/Session Notes/Session 1.md",
-    "Events/The Opening.md",
+    "Locations/The Desert/Pikiktul Plateau/Cattlecross.md",
     "Narrative and Planning/PC Background.md",
+    "Characters/Joseph Edwards.md",
     "Events/Abyssal Revolution.md",
+    "Narrative and Planning/Session Notes/Cattlebanks.md",
+    "Events/The Opening.md",
     "Events/War of Disarmament.md",
     "Locations/Gurnlodir/Gurnlodir.md",
     "Locations/Gurnlodir",
@@ -321,12 +326,7 @@
     "Locations/Hellan/Hellan.md",
     "Material/Resources/Hell Shards.md",
     "Material/Resources/Resources.md",
-    "Characters/Joseph Edwards.md",
-    "Characters/Untitled.md",
     "Locations/Moto Moto/Moto Moto.md",
-    "Narrative and Planning/About/About.md",
-    "Narrative and Planning/Session Notes/Session Notes.md",
-    "Characters/Gods/Hecthagian Pantheon/House of Patronage.md",
     "ci.yaml",
     "Characters/Gods/Hecthagian Pantheon",
     "Documentation/Images/file-explorer-obsidian-getting-started.png",

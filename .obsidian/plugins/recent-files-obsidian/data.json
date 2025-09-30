@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Vezos",
+      "path": "Characters/Vezos.md"
+    },
+    {
+      "basename": "Vazirro",
+      "path": "Characters/Vazirro.md"
+    },
+    {
+      "basename": "Everett Eaton",
+      "path": "Characters/Everett Eaton.md"
+    },
+    {
       "basename": "Session 1",
       "path": "Narrative and Planning/Session Notes/Session 1.md"
     },
     {
-      "basename": "The Opening",
-      "path": "Events/The Opening.md"
+      "basename": "Cattlecross",
+      "path": "Locations/The Desert/Pikiktul Plateau/Cattlecross.md"
     },
     {
       "basename": "PC Background",
@@ -15,6 +27,10 @@
     {
       "basename": "Abyssal Revolution",
       "path": "Events/Abyssal Revolution.md"
+    },
+    {
+      "basename": "The Opening",
+      "path": "Events/The Opening.md"
     },
     {
       "basename": "War of Disarmament",
@@ -67,10 +83,6 @@
     {
       "basename": "Resources",
       "path": "Material/Resources/Resources.md"
-    },
-    {
-      "basename": "Joseph Edwards",
-      "path": "Characters/Joseph Edwards.md"
     },
     {
       "basename": "Moto Moto",
@@ -187,14 +199,6 @@
     {
       "basename": "01- Getting Started",
       "path": "Documentation/01- Getting Started.md"
-    },
-    {
-      "basename": "file-explorer-obsidian-getting-started",
-      "path": "Documentation/Images/file-explorer-obsidian-getting-started.png"
-    },
-    {
-      "basename": "Location- Settlement",
-      "path": "Templates/Location/Location- Settlement.md"
     }
   ],
   "omittedPaths": [],

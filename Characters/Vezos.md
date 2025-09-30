@@ -3,7 +3,7 @@ tags:
 - character
 ---
 > [!infobox]
-> # `Joseph Edwards`
+> # `Vezos`
 > ![[Image.png|200]]
 > ###### About
 > | Titles |  |
@@ -17,7 +17,7 @@ tags:
 > | Status |  |
 > | Languages |  |
 > | Relatives |   |
-# About Joseph Edwards
+# About Vezos
 
 
 
