@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a64960fba46482ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Narrative and Planning/PC Background.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PC Background"
-            }
-          },
-          {
             "id": "357379416ab4523c",
             "type": "leaf",
             "state": {
@@ -55,6 +41,34 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Narrative and Planning/Random Resources/Towns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Towns"
+            }
+          },
+          {
+            "id": "c65c48d49e1b1451",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative and Planning/Random Resources/People's Names.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "People's Names"
+            }
+          },
+          {
+            "id": "fcef16635d759706",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Narrative and Planning/Session Notes/Session 1.md",
                 "mode": "source",
                 "source": false
@@ -64,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative and Planning/Session Notes/Session 1.md",
+                "file": "Characters/Vezos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +221,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 1"
+              "title": "Backlinks for Vezos"
             }
           },
           {
@@ -292,14 +306,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f0cd14bf0cc21100",
+  "active": "fcd7447f316673a7",
   "lastOpenFiles": [
+    "Narrative and Planning/Random Resources/Towns.md",
+    "Narrative and Planning/Session Notes/Session 1.md",
+    "Narrative and Planning/Random Resources/People's Names.md",
+    "Locations/The Desert/Pikiktul Plateau/Cattlecross.md",
+    "Narrative and Planning/PC Background.md",
+    "Narrative and Planning/Random Resources/Random Resources.md",
+    "Narrative and Planning/Random Resources",
     "Characters/Vezos.md",
     "Characters/Vazirro.md",
     "Characters/Everett Eaton.md",
-    "Narrative and Planning/Session Notes/Session 1.md",
-    "Locations/The Desert/Pikiktul Plateau/Cattlecross.md",
-    "Narrative and Planning/PC Background.md",
     "Characters/Joseph Edwards.md",
     "Events/Abyssal Revolution.md",
     "Narrative and Planning/Session Notes/Cattlebanks.md",
@@ -325,11 +343,7 @@
     "Events/Abyssal Revolution",
     "Locations/Yatoro/Yatoro.md",
     "Locations/Hellan/Hellan.md",
-    "Material/Resources/Hell Shards.md",
-    "Material/Resources/Resources.md",
-    "Locations/Moto Moto/Moto Moto.md",
     "ci.yaml",
-    "Characters/Gods/Hecthagian Pantheon",
     "Documentation/Images/file-explorer-obsidian-getting-started.png",
     "Documentation/Images/infobox-callout-its-pre-example.png",
     "Documentation/Images/infobox-callout-its-example.png",

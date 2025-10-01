@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Session 1",
-      "path": "Narrative and Planning/Session Notes/Session 1.md"
-    },
-    {
       "basename": "Vezos",
       "path": "Characters/Vezos.md"
     },
     {
-      "basename": "Vazirro",
-      "path": "Characters/Vazirro.md"
+      "basename": "Towns",
+      "path": "Narrative and Planning/Random Resources/Towns.md"
     },
     {
-      "basename": "Everett Eaton",
-      "path": "Characters/Everett Eaton.md"
+      "basename": "Session 1",
+      "path": "Narrative and Planning/Session Notes/Session 1.md"
+    },
+    {
+      "basename": "People's Names",
+      "path": "Narrative and Planning/Random Resources/People's Names.md"
     },
     {
       "basename": "Cattlecross",
@@ -23,6 +23,18 @@
     {
       "basename": "PC Background",
       "path": "Narrative and Planning/PC Background.md"
+    },
+    {
+      "basename": "Random Resources",
+      "path": "Narrative and Planning/Random Resources/Random Resources.md"
+    },
+    {
+      "basename": "Vazirro",
+      "path": "Characters/Vazirro.md"
+    },
+    {
+      "basename": "Everett Eaton",
+      "path": "Characters/Everett Eaton.md"
     },
     {
       "basename": "Abyssal Revolution",
@@ -187,18 +199,6 @@
     {
       "basename": "04- Git and Obsidian",
       "path": "Documentation/04- Git and Obsidian.md"
-    },
-    {
-      "basename": "03- Community Plugins",
-      "path": "Documentation/03- Community Plugins.md"
-    },
-    {
-      "basename": "02- Best Practices",
-      "path": "Documentation/02- Best Practices.md"
-    },
-    {
-      "basename": "01- Getting Started",
-      "path": "Documentation/01- Getting Started.md"
     }
   ],
   "omittedPaths": [],

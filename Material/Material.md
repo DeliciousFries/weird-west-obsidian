@@ -57,6 +57,6 @@ Information about iron, coal, wood, or your fantasy unobtainium of choice can be
 - **[[Maps]]**
 - **[[Metaphysics]]**
 - **[[Objects]]**
-- **[[Resources]]**
+- **[[Material/Resources/Resources]]**
 
 %% End Waypoint %%
